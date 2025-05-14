@@ -145,7 +145,7 @@ export default function LandingPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-rose-50 via-pink-50 to-purple-50">
       <div className="absolute inset-0 bg-[url('/placeholder.svg?key=ijndv')] opacity-5 bg-cover bg-center mix-blend-soft-light pointer-events-none"></div>
-      
+
       {/* Decorative elements */}
       <div className="absolute top-0 left-0 w-full h-64 bg-gradient-to-r from-pink-200/20 via-purple-200/20 to-blue-200/20 blur-3xl transform -translate-y-1/2 rounded-full"></div>
       <div className="absolute bottom-0 right-0 w-full h-64 bg-gradient-to-r from-rose-200/20 via-pink-200/20 to-purple-200/20 blur-3xl transform translate-y-1/2 rounded-full"></div>
@@ -161,7 +161,7 @@ export default function LandingPage() {
           </h1>
             <p className="text-xl text-gray-700 max-w-md mx-auto font-light leading-relaxed text-center">
             ของขวัญพิเศษสำหรับเพอๆที่น่ารักของเค้า<br />
-            มีคูปองให้ 4 ใบดั๊ว เพอๆจะใช้เมื่อไหร่ก็ได้น้า
+            มีคูปองให้ 4 ใบดั๊ว เพอๆจะใช้เมื่อไหร่ก็ได้น้าคั้บ
             </p>
         </header>
 
